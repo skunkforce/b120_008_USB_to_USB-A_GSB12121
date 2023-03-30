@@ -56,7 +56,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|161000000|107360000|b198917c-ff42-4f2d-bab3-ca77f65fc579|17fac96b-ef75-4bb7-acac-36eb1c4b5ec5",
+        "silk_over_copper|161000000|92640000|b198917c-ff42-4f2d-bab3-ca77f65fc579|065728cc-5c62-4e60-98ab-cc1a55f6d621"
+      ],
       "meta": {
         "version": 2
       },
@@ -486,7 +489,7 @@
     ],
     [
       "767ce4c6-0e55-4543-92f0-34cb8237a544",
-      "implementation"
+      "usb-a"
     ]
   ],
   "text_variables": {}
